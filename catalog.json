@@ -1,6 +1,16 @@
 {
   "formatVersion": 1,
   "id": "jordanmiles27.monster-packs",
-  "name": "MonsterDialer Community Packs",
-  "packs": []
+  "name": "Community Packs",
+  "packs": [
+    {
+      "id": "gen1-monsters",
+      "version": "2.0.0",
+      "name": "Rights-cleared Pack",
+      "license": "n/a",
+      "downloadUrl": "https://github.com/jordanmiles27/monster-packs/blob/catalog-initial/packs/gen1-monsters.monsterpack",
+      "sha256": "c412a61ea38a7025bee101535964f1fd908dcf1980e5ce47a7f7ea04e95066c1",
+      "sizeBytes": 925125
+    }
+  ]
 }
