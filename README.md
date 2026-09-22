@@ -1,4 +1,4 @@
-# MonsterDialer Community Packs
+# Community Packs
 
 This repository publishes a community pack catalog.
 
